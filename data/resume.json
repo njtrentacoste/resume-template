@@ -1,0 +1,124 @@
+{
+	"name": "Nicholas J Trentacoste",
+	"address1": "90 Lancaster Rd",
+	"address2": "",
+	"city": "Freehold",
+	"state": "NJ",
+	"postalCode": "07728",
+	"emailAddress": "njtrentacoste@gmail.com",
+	"objective": "",
+	"programmingLanguages": [
+		"ASP.NET MVC/WebForms",
+		"Classic ASP",
+		"WCF 4.0",
+		"C#",
+		"VB.NET",
+		"LINQ",
+		"ADO.NET",
+		"ADO",
+		"AJAX/ASP.NET AJAX",
+		"CSS",
+		"JavaScript",
+		"jQuery",
+		"AngularJS",
+		"KnockoutJS",
+		"Silverlight"
+	],
+	"developmentTools": [
+		"Microsoft Visual Studio 2005/2008/2010/2012/2013",
+		"Microsoft SQL Server 2005/2008/2012/2014",
+		"Entity Framework 4.0+",
+		"Microsoft Cluster Services",
+		"SQL Server Reports",
+		"Oracle",
+		"Crystal Reports"
+	],
+	"experience": [
+		{
+			"company": "Conifer Health Solutions, Inc",
+			"title": "Software Developer",
+			"startDate": "March 2014",
+			"endDate": "Present",
+			"responsibilities": [
+				"Develop new site functionality based on written specifications.  Full stack development, from CSS/JS all the way through to SQL queries/stored procedures",
+				"Maintain/Enhance existing WebForms, Classic ASP, VB6, SQL Server environment",
+				"Provide software/architectural guidance and best practices to teammates",
+				"Assist support devs with troubleshooting/resolving issues",
+				"Educating teammates on software best practices"
+			]
+		},
+		{
+			"company": "CommVault, Inc",
+			"title": "Web Developer",
+			"startDate": "November 2012",
+			"endDate": "March 2014",
+			"responsibilities": [
+				"Develop custom skins in DotNetNuke CMS environment based on design documents using HTML, CSS and Javascript/jQuery",
+				"Support/Modify/Develop custom modules in DotNetNuke CMS environment based on functional specs in C#",
+				"Install/Test custom modules from external development team and provide feedback/bug report",
+				"Responsible for site maintenance, CMS updates and code promotion into production environment"
+			]
+		},
+		{
+			"company": "Infragistics, Inc",
+			"title": "Web Developer",
+			"startDate": "December 2011",
+			"endDate": "November 2012",
+			"responsibilities": [
+				"Member of geographically dispersed team which developed new public facing corporate website on ASP.NET MVC 3, utilizing the latest software patterns/practices and web technologies",
+				"Developed custom internal website for entering website issues/features directly into TFS",
+				"Supporting/Enhancing new MVC site post launch",
+				"Supporting content team and visual design in using the CMS and implementing new layouts on the site",
+				"Participate in planning and prioritization of initiatives and work activities with business stakeholders"
+			]
+		},
+		{
+			"company": "DDi System, Inc",
+			"title": "Software Developer",
+			"startDate": "September 2010",
+			"endDate": "December 2011",
+			"responsibilities": [
+				"Developed RESTful API for use with mobile devices using WCF 4.0 running in Windows Azure against a SQL Azure database with Entity Framework 4.0",
+				"Developed SOAP/REST API for use with mobile devices to facilitate uploading signatures to ERP for delivery tracking",
+				"Re-architecting & redesigning existing ERP application as next generation system for easier support and maintenance",
+				"Maintain and make enhancements to Windows Forms ERP system",
+				"Maintain and make enhancements to a custom homegrown ecommerce product developed in ASP.NET"
+			]
+		},
+		{
+			"company": "US Naval Academy Alumni Association & Foundation",
+			"title": "Web Developer",
+			"startDate": "April 2008",
+			"endDate": "September 2010",
+			"responsibilities": [
+				"Custom Parts development for Blackbaud NetCommunity in ASP.NET/VB.NET",
+				"Custom integration to Blackbaud Raiser’s Edge to enhance the workflow to better suit the business processes",
+				"SOAP/ASMX/WCF Web Service development in support of the website to pull data from Raiser’s Edge",
+				"Web application development of business tools in ASP/ASP.NET, AJAX, C#, SQL 2005 using Microsoft Visual Studio 2005/2008/2010 and Expression Studio",
+				"Researching/prototyping Sharepoint 2010 to replace existing corporate intranet"
+			]
+		},
+		{
+			"company": "Creative Logistics Solutions, Inc",
+			"title": "Systems Integrator",
+			"startDate": "February 2004",
+			"endDate": "April 2008",
+			"responsibilities": [
+				"Shipping system development from specification of work using VB/VB.NET/VBScript",
+				"Web application development of system configuration tools in ASP/ASP.NET, AJAX, C#, SQL 2000/2005 using Microsoft Visual Studio 2005 and Expression Studio",
+				"Implement host interface to push/pull data typically with ADO",
+				"Remote Development, Onsite go-live, customer/system support post go-live",
+				"Network Administrator, Microsoft Exchange 2007 migration/administration, Backup Admin",
+				"Develop Specs for new hardware purchases, test and recommendation of software packages. i.e. AntiVirus, Backup"
+			]
+		}
+	],
+	"education": [
+		{
+			"institution": "University of Pittsburgh",
+			"degree": "BS",
+			"major": "Computer Engineering",
+			"graduationDate": "August 2001"
+		}
+	]
+}

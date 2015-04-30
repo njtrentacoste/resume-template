@@ -1,0 +1,75 @@
+body {
+	font-family: 'Open Sans', 'Roboto';
+	background: rgb(228, 228, 228);
+}
+
+main {
+	width: 85%;
+	margin: 0 auto;
+	border: 1px solid #000;
+	box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.7);
+	background: #fff;
+}
+
+section {
+	width: 95%;
+	margin: 0 auto;
+}
+
+.divider {
+	padding-bottom: 15px;
+	border-bottom: 1px dashed #000;
+}
+
+.sectionHeader {
+	width: 102%;
+	overflow: visible;
+	margin-left: -1.5%;
+	background: #58A3E4;
+	font-size: 1.75em;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	color: #545454;
+	box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.7)
+}
+
+.address {
+	margin-bottom: 25px;
+}
+
+	.address > p {
+		margin: 0;
+	}
+
+.toolsList > li {
+	display: inline-block;
+	width: 20%;
+	padding: 10px;
+	border: 1px solid #ababab;
+	border-radius: 3px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
+
+.jobTitle {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.companyName {
+	font-weight: bold;
+	font-style: italic;
+	font-size: 1.25em;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.employmentDates {
+	position: absolute;
+	right: 10%;
+}
+
+.education {
+	padding-bottom: 25px;
+}

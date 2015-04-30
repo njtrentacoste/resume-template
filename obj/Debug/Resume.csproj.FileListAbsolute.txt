@@ -1,0 +1,6 @@
+C:\WebContent\Resume\Resume\bin\Resume.dll
+C:\WebContent\Resume\Resume\bin\Resume.pdb
+C:\WebContent\Resume\Resume\obj\Debug\Resume.csprojResolveAssemblyReference.cache
+C:\WebContent\Resume\Resume\obj\Debug\Resume.dll
+C:\WebContent\Resume\Resume\obj\Debug\Resume.pdb
+C:\WebContent\Resume\Resume\bin\Resume.dll.config
